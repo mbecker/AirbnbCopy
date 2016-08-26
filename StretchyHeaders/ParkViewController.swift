@@ -3,7 +3,6 @@
 //  StretchyHeaders
 //
 //  Created by Mats Becker on 8/25/16.
-//  Copyright © 2016 Matthew Cheok. All rights reserved.
 //
 
 import UIKit
